@@ -6,17 +6,17 @@ Hi. I’m Timothy Allen, Principal Engineer here at WRDS, Wharton Research Data 
 
 ## Scene 2: TIM OFFSCREEN
 
-So, the first thing I’ll do is hop here to the search box and search for Python Jupyter. The page I’ll take a look at is the How to Access Python from the Web on JupyterHub. 
+I'll hop up here to the search and enter `Python Jupyter`. The page I’ll click through to is `Python: From the Web (JupyterHub)`. 
 
-I’ll click through to the page. The article has some useful information, but I’m just going to click on the Open JupyterHub link.  
+The article has some useful information, but I’m just going to click on the Open JupyterHub link.  
 
-Now you’ll just need to log into Jupyter using your WRDS credentials, which is straightforward to do. If this is your first time logging into Jupyter on WRDS, you’ll need to select the Python 3 Kernel. This will bring up a blank Jupyter Notebook.  
+Now you’ll just need to log into Jupyter using your WRDS credentials, which I've already done. If this is your first time logging into Jupyter on WRDS, you’ll need to select the Python 3 Kernel. This will bring up a blank Jupyter Notebook.  
 
 ## Scene 3: TIM ONSCREEN - Slide behind him says "WRDS Python Package"
 
 Let’s dive into using the WRDS package. This Python package is something we’ve built specifically for accessing data on WRDS that is publicly available from the Python Package Index. The package makes accessing WRDS data very straightforward. It’s a custom fit, like a fine suit.  
 
-If this is the first time you’re doing this, you will be prompted to create a pgpass file. This will save your credentials so you don’t need to enter them every time you want to use Python on Jupyter. 
+If this is the first time you’re doing this, you will be prompted to create a pgpass file. This will save your credentials so you don’t need to enter them every time. 
 
 ## Scene 4: TIM OFFSCREEN
 
