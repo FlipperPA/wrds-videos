@@ -1,5 +1,7 @@
 # Python on Jupyter Script
 
+**QUESTION FOR WAYNE:** Should we break up section where I need to paste code into its own scene? That way, I can have it pre-copied so I just have to paste it. That would make `SCENE` 4 six separate sub-scenes for each block of code within it.
+
 ## Scene 1: TIM ONSCREEN - Slide behind him says "Using Python on Jupyter"
 
 Hi. I’m Timothy Allen, Principal Engineer here at WRDS, Wharton Research Data Services. Today I’m going to show you how to use Python on the WRDS Jupyter instance. We’ll start from the WRDS home page. 
