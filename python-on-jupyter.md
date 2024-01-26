@@ -2,6 +2,13 @@
 
 **QUESTION FOR WAYNE:** Should we break up section where I need to paste code into its own scene? That way, I can have it pre-copied so I just have to paste it. That would make `SCENE` 4 six separate sub-scenes for each block of code within it.
 
+**REMINDERS FOR TIM:**
+
+* Take a beat before any face-shot dialog.
+* Say the first line of over-browser dialog when shooting face-shots to ensure a natural transition.
+* Put all web browser screens into full-screen mode with F11.
+* Avoid putting the mouse across the top menu bar when in full screen, or the "CIRCLE X" appear.
+
 ## Scene 1: TIM ONSCREEN - Slide behind him says "Using Python on Jupyter"
 
 Hi. I’m Timothy Allen, Principal Engineer here at WRDS, Wharton Research Data Services. Today I’m going to show you how to use Python on the WRDS Jupyter instance. We’ll start from the WRDS home page. 
