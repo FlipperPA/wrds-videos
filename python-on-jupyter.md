@@ -23,13 +23,13 @@ Now you’ll just need to log into Jupyter using your WRDS credentials, which I'
 
 ## Scene 3: TIM ONSCREEN - Slide behind him says "WRDS Python Package"
 
-Let’s dive into using the WRDS package. This Python package is something we’ve built specifically for accessing data on WRDS that is publicly available from the Python Package Index. The package makes accessing WRDS data very straightforward. It’s a custom fit, like a fine suit.  
+Let’s dive into using the WRDS package. This Python package is something we’ve built specifically for accessing data on WRDS. The package makes accessing WRDS data very straightforward. It’s a custom fit, like a fine suit.  
 
 If this is the first time you’re doing this, you will be prompted to create a pgpass file. This will save your credentials so you don’t need to enter them every time. 
 
 ## Scene 4: TIM OFFSCREEN
 
-I’m going to import the WRDS package using the Python IMPORT command in the Jupyter cell and connect to the database:
+I’m going to import the WRDS package using the Python IMPORT command in the Jupyter code cell and connect to the database:
 
 ```python
 import wrds
