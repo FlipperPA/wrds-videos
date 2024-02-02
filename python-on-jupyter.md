@@ -7,7 +7,7 @@
 * Take a beat before any face-shot dialog.
 * Say the first line of over-browser dialog when shooting face-shots to ensure a natural transition.
 * Put all web browser screens into full-screen mode with F11.
-* Avoid putting the mouse across the top menu bar when in full screen, or the "CIRCLE X" appear.
+* Avoid putting the mouse across the top menu bar when in full screen, or the "CIRCLE X" will appear.
 
 ## Scene 1: TIM ONSCREEN - Slide behind him says "Using Python on Jupyter"
 
