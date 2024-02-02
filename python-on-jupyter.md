@@ -33,13 +33,13 @@ I’m going to import the WRDS package using the Python IMPORT command in the Ju
 
 ```python
 import wrds
-db = wrds.Connection(wrds_username='tallen')
+db = wrds.Connection(wrds_username="tallen")
 ```
 
 To RUN the code, I can press the run button, or use the keyboard shortcut SHIFT+ENTER. Now I’m going to use some of the helper methods provided by the package to select some data from one of the free datasets, the Dow Jones Index. I’m using the raw SQL method, so I type in:  
 
 ```python
-db.raw_sql('SELECT date, dji FROM djones.djdaily') 
+db.raw_sql("SELECT date, dji FROM djones.djdaily") 
 ```
 
 What this will do is connect to our data server and return the Dow Jones Industrial Average for each of the dates that we have data for. And you’ll see it returns the data I requested, showing the Dow Jones Industrial Average starting back from 1896.  
@@ -57,7 +57,7 @@ This returns a VERY long list for me - because I’m staff at WRDS, and I have a
 What I’m going to do is come down to select `crsp_a_stock`, the CRSP Annual Stock library, one of our more popular. Let’s take a look at the actual tables within it. We have another handy command called `list_tables` where I can pass the library name `crsp_a_stock`. 
 
 ```python
-db.list_tables(library='crsp_a_stock')
+db.list_tables(library="crsp_a_stock")
 ```
 
 Here, we see a list of all the tables available within the `crsp_a_stock` library. 
