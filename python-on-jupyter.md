@@ -118,7 +118,7 @@ df
 
 I’m using an aggregate `AVG` function on the `volume` to `GROUP BY` the year and month. I `SELECT` the year and the month from the date column, and also select the `cusip` to `GROUP` the results.  
 
-This returns is the average daily volume for Apple for every year and month since the company went public. And since I ordered it by year and month it is easy to see how the volume has waxed and waned over time. We have aggregated the volume data monthly for over 500 months of Apple’s existence. 
+This returns the average daily volume for Apple for every year and month since the company went public. And since I ordered it by year and month it is easy to see how the volume has waxed and waned over time. We have aggregated the volume data monthly for over 500 months of Apple’s existence. 
 
 ## Scene 7: TIM ONSCREEN - Slide behind him says "Thank You"
 
